@@ -1,0 +1,95 @@
+[
+    {
+        "image": "Apples.jpg",
+        "title": "Apples",
+        "price": 100,
+        "quantity": "1kg"
+    },
+    {
+        "image": "Moong Flour.jpg",
+       "title": "Moong Flour",
+        "price": 200,
+        "quantity": "2kg"
+    },
+    {
+        "image": "Dairy  milk.jpg",
+        "title": "Dairy  milk",
+        "price": 40,
+        "quantity": "1"
+    },
+    {
+        "image": "Carrots.jpg",
+        "title": "Carrots",
+        "price": 60,
+        "quantity": "2kg"
+    },
+    {
+        "image": "Cone icecream.jpg",
+        "title": "Cone icecream",
+        "price": 40,
+        "quantity": "1"
+    },
+    {
+        "image": "Coriander.jpg",
+        "title": "Coriander",
+        "price": 20,
+        "quantity": "1"
+    },
+  
+  
+   
+    {
+        "image": "meat.jpg",
+       "title": "meat",
+        "price": 400,
+        "quantity": "1kg"
+    },
+    {
+        "image": "Moong Flour.jpg",
+       "title": "Moong Flour",
+        "price": 200,
+        "quantity": "2kg"
+    },
+    {
+        "image": "Non Stick Pans.jpg",
+       "title": "Non Stick Pans",
+        "price": 4000,
+        "quantity": "1"
+    },
+    {
+        "image": "Nyle shampoo.jpg",
+       "title": "Nyle shampoo",
+        "price": 420,
+        "quantity": "1"
+    },
+    {
+        "image": "Oats.jpg",
+       "title": "Oats",
+        "price": 180,
+        "quantity": "1"
+    },
+    {
+        "image": "Pampers pants.jpg",
+        "title": "Pampers pants",
+        "price": 300,
+        "quantity": "1"
+    },
+    {
+        "image": "Parachute oil.jpg",
+       "title": "Parachute oil",
+        "price": 140,
+        "quantity": "1"
+    },
+    {
+        "image": "Pooja Samaghri.jpg",
+       "title": "Pooja Samaghri",
+        "price": 700,
+        "quantity": "1"
+    },
+    {
+        "image": "Tomatoes.jpg",
+      "title": "Tomatoes",
+        "price": 100,
+        "quantity": "1kg"
+    }
+]
